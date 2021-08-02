@@ -7,3 +7,4 @@ Was developed a API with an system web complete: authentications, CRUD and handl
 thanks
 
 Samuel Einsweiler
+samuel.einsweiler@gmail.com
